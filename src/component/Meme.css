@@ -21,3 +21,6 @@ main {
   border: none;
   cursor: pointer;
 }
+.meme_image{
+  max-width: 100%;
+}
